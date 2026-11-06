@@ -1,0 +1,7 @@
+model,cv_accuracy_mean,cv_accuracy_std,cv_f1_macro_mean
+Baseline (most frequent),0.1009,0.0002,0.0183
+Logistic Regression,0.9652,0.0073,0.9652
+KNN (k=5),0.9875,0.0075,0.9875
+SVM (RBF),0.9882,0.0036,0.9881
+Random Forest,0.9749,0.0078,0.9748
+SVM (RBF) with StandardScaler,0.9812,0.0061,0.9812

@@ -1,0 +1,6 @@
+,test_accuracy
+original test images,0.992
+shifted 1 pixel right,0.519
+shifted 1 pixel down,0.533
+rotated 15 degrees,0.747
+with random pixel noise (sd 2),0.983
